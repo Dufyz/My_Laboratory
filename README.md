@@ -2,7 +2,7 @@
 
 That's my closed 'programming laboratory'
 
-Programs that i use :
+Programs and languages that i use :
 
   - Jupyter-Lab (Notebooks) : Pandas / Numpy / Matplotlib
   - WampServer (local) : MySql
