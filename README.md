@@ -2,7 +2,16 @@
 
 That's my closed 'programming laboratory'
 
-- Jupyter-Lab (Notebooks) : Pandas / Numpy / Matplotlib
-- WampServer (local) : MySql
-- Visual Studio Code : Python
-- PyCharm : Python
+Programs that i use :
+
+  - Jupyter-Lab (Notebooks) : Pandas / Numpy / Matplotlib
+  - WampServer (local) : MySql
+  - Visual Studio Code : Python
+  - PyCharm : Python
+ 
+ Languages that i use :
+ 
+  - Python :
+    - libs : Pandas / Numpy / Matplotlib
+  
+  - 
