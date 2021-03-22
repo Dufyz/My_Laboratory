@@ -6,5 +6,5 @@ Program's, languages and libs that i use :
 
   - Jupyter-Lab (Notebooks) : Pandas / Numpy / Matplotlib
   - WampServer (local) : MySql
-  - Visual Studio Code : Python
+  - Visual Studio Code : Python, JavaScript, Html5/Css3
   - PyCharm : Python
