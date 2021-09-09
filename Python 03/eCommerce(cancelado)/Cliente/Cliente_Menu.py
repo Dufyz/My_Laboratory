@@ -1,6 +1,6 @@
 # from typing import Union
 
-from Cliente import Registrar_Cliente
+import Registrar_Cliente.py
 
 
 def menu_cliente() -> str:

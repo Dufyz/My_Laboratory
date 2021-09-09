@@ -3,7 +3,6 @@
 from Funcionario import Funcionário_Menu
 from Cliente import Cliente_Menu
 from Estoque import Estoque_Menu
-from Financeiro import Financeiro_Menu
 
 
 while True:
@@ -30,8 +29,8 @@ while True:
     elif menu_quest == 3: # Abre o menu do estoque
         Estoque_Menu.menu_estoque() #Abre o menu do estoque
 
-    elif menu_quest == 4: # Abre o menu do financeiro
-        Financeiro_Menu.menu_financeiro()
+    #elif menu_quest == 4: # Abre o menu do financeiro
+     #   Financeiro_Menu.menu_financeiro()
 
     elif menu_quest == 5: # Finaliza o aplicativo
         exit()

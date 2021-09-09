@@ -1,6 +1,6 @@
 # from typing import Union
-import mysql.connector
 import random
+import mysql.connector
 
 banco = mysql.connector.connect(
     host = 'localhost',
