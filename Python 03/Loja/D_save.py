@@ -25,3 +25,4 @@ def db_estoque():
               f'\nMarca: {c[2]}',
               f'\nTipo: {c[3]}',
               f'\nQuantidade: {c[4]}\n')
+
