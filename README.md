@@ -15,4 +15,4 @@ This repository have all my projects relacionated with study about data science.
 
 ## ⚠️ Atention
 
-This project don't have the propouse of be seriously, i am just trying some things for my knowledged. !This project isn't finished yet!
+This project don't have the propouse of be seriously, i am just trying some things for my knowledged.
