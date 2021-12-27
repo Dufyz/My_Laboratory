@@ -1,4 +1,6 @@
 import pickle
+import os 
+
 from typing import Text
 from flask_basicauth import BasicAuth
 from flask import Flask, request, jsonify
@@ -32,4 +34,4 @@ def houses_prices():
     predict = model.predict([data])
     return jsonify(preco = predict[0])
 
-app.run(debug = True)
+app.run(debug = True, host = '0.0.0.0')
